@@ -3,11 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Neural Network Portfolio</title>
 </head>
 <body>
     <h1>Welcome to My Neural Network Portfolio</h1>
     <p>Here you'll find projects demonstrating my abilities in neural network applications.</p>
-    https://github.com/ARman-AT/ANN_projects/tree/main/Image%20captioning
-    https://github.com/ARman-AT/ANN_projects/tree/main/Object%20Detection
+    <ul>
+        <li><a href="https://github.com/ARman-AT/ANN_projects/tree/main/Image%20captioning">Image Captioning Project</a>: This project focuses on developing a model that can automatically generate captions for images.</li>
+        <li><a href="https://github.com/ARman-AT/ANN_projects/tree/main/Object%20Detection">Object Detection Project</a>: This project involves creating a neural network model that can identify and locate objects within images.</li>
+    </ul>
 </body>
 </html>
