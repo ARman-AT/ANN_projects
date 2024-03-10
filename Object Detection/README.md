@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Object Detection Results </title>
+    <p>Object Detection Results </p>
 </head>
 <body>
     <ul>
