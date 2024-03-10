@@ -12,7 +12,6 @@
         <img src="./Results/result_2.png" alt="Image Captioning Result 2">
         <img src="./Results/result_3.png" alt="Image Captioning Result 3">
         <img src="./Results/result_4.png" alt="Image Captioning Result 4">
-
-    </ul>
+        </ul>
 </body>
 </html>
